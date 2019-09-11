@@ -13,3 +13,5 @@
 ### InfoLite
 - https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
 
+### 錄影檔
+- https://drive.google.com/open?id=1CrIBv0wi6xeF4T2oxOJNWH518b-IqgNA
